@@ -34,6 +34,3 @@ cd particle-wave-game
 - assets: Contains image and sound assets used in the game.
 ### Building the Project
 To build the project, use the build functionality provided by your IDE. Ensure all dependencies are correctly configured.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
